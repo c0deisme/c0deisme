@@ -14,4 +14,4 @@
 ![LangCard](https://github-readme-stats.vercel.app/api/top-langs/?username=c0deisme&theme=synthwave)  
 ![ReadMeCard](https://github-readme-stats.vercel.app/api?username=c0deisme&show_icons=true&theme=synthwave)  
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R24G3PJ)
+<!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R24G3PJ)-->
